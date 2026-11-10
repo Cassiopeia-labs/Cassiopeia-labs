@@ -15,7 +15,7 @@ Desarrollo apps móviles y para Mac en **[Cassiopeia Labs](https://cassiopeialab
     <td><img src="icons/piripi-icon.png" width="56" alt="Piripi"></td>
     <td><b><a href="https://cassiopeialabs.com/apps/piripi">Piripi</a></b> · Retos para fiestas<br>
     Retos para fiestas que funcionan sin conexión y sin cuenta.<br>
-    <a href="https://play.google.com/store/apps/details?id=com.cassiopeialabs.piripi">Google Play</a> · <code>Flutter</code></td>
+    <a href="https://apps.apple.com/es/app/piripi/id6774119361">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.cassiopeialabs.piripi">Google Play</a> · <code>Flutter</code></td>
   </tr>
   <tr>
     <td><img src="icons/pdfqr-icon.png" width="56" alt="PDF & QR"></td>
